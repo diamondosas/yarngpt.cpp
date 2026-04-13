@@ -1,0 +1,15 @@
+# Build artifacts
+/cpp/build/
+*.so
+*.dylib
+*.a
+
+# Go binaries
+/go/cmd/server/yarngpt-server
+/go/example/example
+
+# Models
+*.gguf
+*.pt
+*.ckpt
+*.yaml
